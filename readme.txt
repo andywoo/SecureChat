@@ -1,5 +1,5 @@
 ================================================
-Python Command Line Tic-Tac-Toe Game
+Python Secure Encrypted Chat
 
 By Andy Woo
 
